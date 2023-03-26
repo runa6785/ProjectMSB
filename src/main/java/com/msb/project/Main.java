@@ -26,7 +26,7 @@ public class Main {
 	
 	static Maple Maple = new Maple();
     
-    static String token = "MTA4ODcxMDU0MTUyODI4MTEzOA.GgVvmz.ooQcrO-_bkOY6oAqt19tzZZgzTXQqTEPJbt0D8";
+    static String token = "";
     static DiscordApi api;
     
 	public static void main (String [] args) {	
