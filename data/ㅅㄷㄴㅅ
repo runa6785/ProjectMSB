@@ -1,0 +1,23 @@
+{
+    "question": ["대흥민"],
+    "emotion": [
+        {
+            "type": "happy",
+	"value": 0,
+	"count": 0,
+            "answer": ["대흥민"]
+        },
+        {
+            "type": "angry",
+	"value": 0,
+	"count": 1,
+            "answer": ["나화남"]
+        }
+        {
+            "type": "angry",
+	"value": 1,
+	"count": 1,
+            "answer": ["나화남"]
+        }
+    ]
+}
