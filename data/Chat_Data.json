@@ -138,6 +138,12 @@
             "count": -1,
             "answer": ["나 슬프다 {user_name}", "그런말 하지마 {user_name}"]
         },
+        {
+            "type": "noraml",
+            "value": 0,
+            "count": 0,
+            "answer": ["야 {user_name} 내가 미안해", "{user_name} 안그럴게", "한번만 봐줘", "{user_name}씨 저 죽기싫어요"]
+        }
       ]
   }
   {
